@@ -21,11 +21,22 @@ I have a solid understanding and practical experience with the following technol
 ## Projects
 
 ### Project 1: ethiotour
-- **Description:** Brief description of the project.
+- **Description:** this website serves as your comprehensive guide to exploring the wonders of the world Whether you're a seasoned globetrotter or a first-time traveler, we've got you covered with insightful tips, inspiring itineraries, and unbeatable deals.
+Embark on a journey with us as we navigate through the enchanting landscapes, vibrant cultures, and hidden gems of destinations across the globe. From the bustling streets of cosmopolitan cities to the serene tranquility of remote islands, our curated tours offer something for every type of adventurer.
+
+
 - **Technologies:** HTML, CSS, JavaScript, PHP (Laravel)
 
 ### Project 2: music player website
-- **Description:** Brief description of the project.
+- **Description:** At Bate Music Player Website, we offer an immersive music experience tailored to both artists and listeners. Our platform empowers users to upload their own music, discover new sounds, create personalized playlists, and seamlessly download their favorite tracks for offline enjoyment.
+
+Key features include:
+
+User-Generated Content: Amplify your voice as an artist or share your favorite tunes with the community by effortlessly uploading your music to our platform.
+
+Immersive Listening: Dive into a world of audio bliss with our high-fidelity playback. Explore a vast catalog of songs spanning various genres and styles, curated to suit every mood and taste.
+
+Personalized Playlists: Craft the perfect soundtrack for any moment with our intuitive playlist creation tool. Whether it's for workouts, relaxation, or parties, customize your playlists to match your vibe..
 - **Technologies:** HTML, CSS, JavaScript, Python (Django)
 
 ## Contact
