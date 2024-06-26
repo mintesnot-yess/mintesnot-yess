@@ -36,6 +36,7 @@ Embark on a journey with us as we navigate through the enchanting landscapes, vi
 
 - **Technologies:** HTML, CSS, JavaScript, Python (Django)
 
+
 ## Contact
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mintesnot-yesmashewa-475b52293/), or connect with me on [X](https://x.com/Mint_snot).
 
