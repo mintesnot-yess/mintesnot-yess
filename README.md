@@ -1,8 +1,7 @@
 # Full-Stack Web Developer
 
 ## About Me
-As a full-stack web developer with one year of experience, I am proficient in both front-end and back-end development. 
-I have a solid understanding and practical experience with the following technologies:
+I am a motivated and detail-oriented full-stack web developer with one year of experience in designing and building responsive, user-friendly web applications. I am skilled in both front-end and back-end development and have hands-on expertise with a range of technologies. My focus is on creating scalable, maintainable, and efficient applications that deliver exceptional user experiences.
 
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** PHP (Laravel framework), Python (Django framework)
@@ -10,13 +9,20 @@ I have a solid understanding and practical experience with the following technol
 ## Skills
 
 ### Front-End Development
-- **HTML:** Writing well-structured, semantic HTML for various projects.
-- **CSS:** Creating responsive and visually appealing designs with CSS, including modern frameworks like Bootstrap.
-- **JavaScript:** Building dynamic and interactive web applications using vanilla JavaScript and popular libraries.
+- **HTML:** Writing clean, semantic, and well-structured HTML for diverse projects
+- **CSS:** Crafting responsive and visually appealing designs using modern CSS techniques, including frameworks like Bootstrap.
+- **JavaScript:** Developing dynamic and interactive web applications with vanilla JavaScript and libraries.
+- **React & React Native:** Building modular and reusable components for web and mobile applications with React and React Native.
+- **Vue.js:** Creating dynamic and engaging user interfaces using Vue.js.
+- **Flutter:** Developing cross-platform mobile applications with Flutter.
+  
+  
 
 ### Back-End Development
-- **PHP with Laravel Framework:** Developing robust web applications with Laravel, including RESTful APIs, authentication, and database management.
-- **Python with Django Framework:** Creating scalable and maintainable web applications using Django, including ORM, template engine, and Django REST framework for API development. 
+- **PHP with Laravel Framework:** Building robust web applications with features such as RESTful APIs, user authentication, and database management.
+- **Python with Django Framework:** Creating scalable and maintainable applications using Django, with expertise in ORM, template engines, and Django REST Framework for API development.
+- **Next.js:** Developing full-stack applications with server-side rendering (SSR) and static site generation (SSG) for performance optimization. 
+  
 
 ## Contact
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/mintesnot-yesmashewa-475b52293/), or connect with me on [X](https://x.com/Mint_snot).
