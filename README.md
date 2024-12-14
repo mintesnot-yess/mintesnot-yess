@@ -1,12 +1,9 @@
 # Full-Stack Web Developer
 
 ## About Me
-I am a motivated and detail-oriented full-stack web developer with one year of experience in designing and building responsive, user-friendly web applications. I am skilled in both front-end and back-end development and have hands-on expertise with a range of technologies. My focus is on creating scalable, maintainable, and efficient applications that deliver exceptional user experiences.
+I am a motivated and detail-oriented full-stack web developer with one year of experience in designing and building responsive, user-friendly web applications. I am skilled in both front-end and back-end development and have hands-on expertise with a range of technologies. My focus is on creating scalable, maintainable, and efficient applications that deliver exceptional user experiences. 
 
-- **Front-end:** HTML, CSS, JavaScript
-- **Back-end:** PHP (Laravel framework), Python (Django framework)
-
-## Skills
+## Technical Skills
 
 ### Front-End Development
 - **HTML:** Writing clean, semantic, and well-structured HTML for diverse projects
