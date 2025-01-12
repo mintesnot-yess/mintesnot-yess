@@ -22,4 +22,4 @@
 - 🕶️ **Augmented Reality (AR)**: Creating immersive AR experiences for mobile and other platforms using AR technologies.
 
 ## Contact
-Feel free to reach out to me via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/mintesnot-yesmashewa/)) or connect with me on [Telegrame]([@mint_snot](https://t.me/mint_snot)).
+Feel free to reach out to me via [LinkedIn]([https://www.linkedin.com/in/mintesnot-yesmashewa/]) or connect with me on [Telegrame]([https://t.me/mint_snot]).
