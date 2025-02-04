@@ -1,4 +1,4 @@
-# Full-Stack Web Developer & Game Developer
+# Full-Stack Web & Game Developer
 
 👋 Hi there! I'm a motivated and detail-oriented full-stack web developer and game developer with **four years of experience** in designing and building responsive, user-friendly web applications and engaging games. I specialize in both front-end and back-end development, as well as game development using Unity and Augmented Reality (AR). My goal is to create scalable, maintainable, and efficient applications and games that deliver exceptional user experiences.
 
